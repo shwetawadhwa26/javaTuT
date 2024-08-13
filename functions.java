@@ -40,6 +40,11 @@ public class functions {
 
     }
 
+    static String str(String name) {
+        return name;
+
+    }
+
     static void greeting() {
         System.out.println("hello ");
     }
